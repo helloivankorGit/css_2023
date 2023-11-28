@@ -1,0 +1,29 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+pre {
+    background-color: #fcf7ef;
+    padding: 20px 10px 10px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+.checkbox--red {
+    accent-color: red;
+}
+
+.checkbox--green {
+    accent-color: green;
+}
+
+.field {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
